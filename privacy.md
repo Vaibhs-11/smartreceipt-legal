@@ -74,6 +74,19 @@ Your data is retained for as long as your account remains active. You may reques
 
 ---
 
+# Account and Data Deletion
+
+You can request deletion of your SmartReceipt account and associated data at any time.
+To delete your account:
+Open the SmartReceipt app
+Go to Account → Delete Account
+Alternatively, you can request account deletion by emailing:
+vaibhs.sh@gmail.com
+All associated receipt data will be permanently deleted as part of this process.
+
+---
+
+
 ## Your Rights
 
 Depending on your location, you may have rights to:
