@@ -17,8 +17,8 @@ SmartReceipt ("we", "our", or "us") respects your privacy and is committed to pr
 - Parsed receipt details such as store name, date, items, and totals
 
 ### 3. Payment Information
-- Subscription purchases are handled by Google Play Store and Apple App Store.
-- We do not store or process your payment card details directly.
+- Subscription purchases are handled by the respective app distribution platform.
+- We do not store or process your payment card details directly. We receive limited subscription status information necessary to provide access to paid features.
 
 ---
 
@@ -28,7 +28,7 @@ We use your information to:
 - Authenticate and manage your account
 - Scan and extract data from receipts
 - Organise and display your receipts within the app
-- Provide paid and free features based on your subscription status
+- Maintain your subscription status and determine access to premium features
 - Improve the accuracy and reliability of receipt processing
 
 ---
@@ -70,7 +70,7 @@ Your data may be shared only with:
 
 ## Data Retention
 
-Your data is retained for as long as your account remains active. You may request deletion of your account and associated data.
+Your data is retained for as long as your account remains active. When your account is deleted, associated receipt images and extracted data are permanently removed from our active systems within a reasonable timeframe, except where retention is required by law.
 
 ---
 
@@ -88,6 +88,8 @@ All associated receipt data will be permanently deleted as part of this process.
 
 
 ## Your Rights
+
+We process your personal data based on your consent and the necessity to provide the services requested by you.
 
 Depending on your location, you may have rights to:
 - Access your personal data
