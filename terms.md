@@ -26,6 +26,7 @@ You agree to use the App only for lawful purposes and in accordance with these t
 SmartReceipt offers optional auto-renewable subscription plans, including:
 
 • Monthly subscription (renews every 1 month)
+
 • Annual subscription (renews every 12 months)
 
 - The price of each subscription plan is displayed within the app prior to purchase.
