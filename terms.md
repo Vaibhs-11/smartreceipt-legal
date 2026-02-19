@@ -24,16 +24,18 @@ You agree to use the App only for lawful purposes and in accordance with these t
 ## Subscriptions and Payments
 
 SmartReceipt offers optional auto-renewable subscription plans, including:
+
 • Monthly subscription (renews every 1 month)
 • Annual subscription (renews every 12 months)
-The price of each subscription plan is displayed within the app prior to purchase.
-Payment will be charged to your account at confirmation of purchase.
-Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current billing period.
-Your account will be charged for renewal within 24 hours prior to the end of the current period at the rate selected.
-You can manage or cancel your subscription at any time through your account subscription settings in your device settings.
-If you cancel, your subscription will remain active until the end of the current billing period.
-No refunds will be provided for unused portions of the subscription period unless required by applicable law.
-Free trials (if offered) automatically convert to a paid subscription unless cancelled before the trial period ends.
+
+- The price of each subscription plan is displayed within the app prior to purchase.
+- Payment will be charged to your account at confirmation of purchase.
+- Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current billing period.
+- Your account will be charged for renewal within 24 hours prior to the end of the current period at the rate selected.
+- You can manage or cancel your subscription at any time through your account subscription settings in your device settings.
+- If you cancel, your subscription will remain active until the end of the current billing period.
+- No refunds will be provided for unused portions of the subscription period unless required by applicable law.
+- Free trials (if offered) automatically convert to a paid subscription unless cancelled before the trial period ends.
 
 ---
 
